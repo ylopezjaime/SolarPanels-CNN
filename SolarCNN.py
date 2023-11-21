@@ -204,4 +204,4 @@ plt.show()
 # --------------------------------------------------------------------------
 
 # Save the trained model
-torch.save(vgg16.state_dict(), 'Solar_vgg16.pth')
+#torch.save(vgg16.state_dict(), 'Solar_vgg16.pth')
