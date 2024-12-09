@@ -5,7 +5,7 @@
 #  
 # --------------------------------------------------------------------------
 # @author : Yeuris Adolfo Lopez Jaime
-# @date : October, 2023
+# @date : October, 2024
 # @Project : Predictive Maintanance using CCN for dectecting faults on Solar panels
 # @Workplace : Universidad Central Del Este
 # @City : San Pedro De Macoris, Republica Dominicana
